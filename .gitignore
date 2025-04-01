@@ -1,0 +1,10 @@
+.vscode/*
+/vendor/
+/Godeps/
+__debug_bin*
+
+./frames
+*.mp4
+*.jpg
+*.png
+*.jpeg
